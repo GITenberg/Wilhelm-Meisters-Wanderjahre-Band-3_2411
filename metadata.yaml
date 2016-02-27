@@ -1,0 +1,27 @@
+_repo: Wilhelm-Meisters-Wanderjahre-Band-3_2411
+creator:
+  author:
+    agent_name: Goethe, Johann Wolfgang von
+    aliases:
+    - Goethe, J. W. (Johann Wolfgang)
+    - Von Goethe, Johann Wolfgang
+    birthdate: 1749
+    deathdate: 1832
+    gutenberg_agent_id: '586'
+    url: http://www.gutenberg.org/2009/agents/586
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2000-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2411'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Bildungsromans'
+title: Wilhelm Meisters Wanderjahre — Band 3
+url: http://www.gutenberg.org/ebooks/2411
