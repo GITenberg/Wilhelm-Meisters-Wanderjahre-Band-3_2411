@@ -1,5 +1,5 @@
 _repo: Wilhelm-Meisters-Wanderjahre-Band-3_2411
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,5 +29,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PT'
 - !lcsh 'Bildungsromans'
+- GITenberg
 title: Wilhelm Meisters Wanderjahre — Band 3
 url: http://www.gutenberg.org/ebooks/2411
